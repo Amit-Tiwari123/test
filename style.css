@@ -1,0 +1,69 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+html,body{
+    width: 100%;
+    height: 100%;
+
+
+    
+    
+
+}
+#main {
+    width: 100%;
+    background-color: #efefef;
+    
+    
+}
+
+#nav {
+    padding: 0 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    height: 100px;
+    
+}
+#lnav {
+    display: flex;
+    gap: 30px;
+    align-items: center;
+    
+}
+
+#lnav button {
+    font-weight: 500;
+padding: 8px 22px;
+background-color: #fff;
+border-radius: 100px;
+border: none;
+}
+
+#rnav {
+    display: flex;
+    gap: 10px;
+    
+    
+}
+
+#rnav a {
+    font-size: 15px;
+    font-weight: 500px;
+    text-decoration: none;
+    color: #000;
+}
+    
+    
+    
+
+
+
+
+
+
+
